@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle js-jasmine-spec",
+        "command": "js2jas:toggle-spec-file"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "js2jas",
+          "submenu": [
+            {
+              "label": "Toggle Spec File",
+              "command": "js2jas:toggle-spec-file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
