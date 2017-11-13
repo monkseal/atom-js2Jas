@@ -1,14 +1,14 @@
 {
-  "name": "js-jasmine-spec",
-  "main": "./lib/js-jasmine-spec",
-  "version": "0.0.0",
+  "name": "js2jas",
+  "main": "./lib/js2jas.js",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "js-jasmine-spec:toggle"
+    "atom-workspace": "js2jas:toggle-spec-file"
   },
-  "repository": "https://github.com/atom/js-jasmine-spec",
+  "repository": "https://github.com/monkseal/atom-js2Jas",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
